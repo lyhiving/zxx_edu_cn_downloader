@@ -1,0 +1,1033 @@
+{
+	"activity_set_name": "初中初一上道德与法治(统编版)",
+	"activity_set_type": "x_course",
+	"guide_type": "normal",
+	"ext_info": {
+		"activity_count": 32,
+		"study_time": 115200,
+		"activity_bit_set": "11111111111111111111111111111111"
+	},
+	"activity_total": 32,
+	"nodes": [
+		{
+			"node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+			"node_name": "第一单元 成长的节拍 ",
+			"node_type": "catalog",
+			"parent_node_id": null,
+			"order_no": 1,
+			"bit_order": null,
+			"ext_info": {
+				"total_time": 39600
+			},
+			"relations": null,
+			"child_nodes": [
+				{
+					"node_id": "ad610237-db27-4d86-8105-f7262c2e3fdf",
+					"node_name": "中学序曲（第一课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 1,
+					"bit_order": 0,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "ad610237-db27-4d86-8105-f7262c2e3fdf",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "中学序曲（第一课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[ad610237-db27-4d86-8105-f7262c2e3fdf].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "f208deed-ae70-4d94-99e1-fb47501658ca",
+					"node_name": "中学序曲（第二课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 2,
+					"bit_order": 1,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "f208deed-ae70-4d94-99e1-fb47501658ca",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "中学序曲（第二课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b7b4f4547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[f208deed-ae70-4d94-99e1-fb47501658ca].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "435a0f97-d12f-4f67-b333-7ee1fffd4b38",
+					"node_name": "少年有梦（第一课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 3,
+					"bit_order": 2,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "435a0f97-d12f-4f67-b333-7ee1fffd4b38",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "少年有梦（第一课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b10b75547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[435a0f97-d12f-4f67-b333-7ee1fffd4b38].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "d67405fb-61b1-4cf2-b4a7-791d8aed4cdc",
+					"node_name": "少年有梦（第二课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 4,
+					"bit_order": 3,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "d67405fb-61b1-4cf2-b4a7-791d8aed4cdc",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "少年有梦（第二课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b05e99547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[d67405fb-61b1-4cf2-b4a7-791d8aed4cdc].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "74301655-3139-4688-8754-fe303540d797",
+					"node_name": "学习伴成长（第一课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 5,
+					"bit_order": 4,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "74301655-3139-4688-8754-fe303540d797",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "学习伴成长（第一课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b1abb3547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[74301655-3139-4688-8754-fe303540d797].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "5de73c5b-e906-45eb-8d79-83bb896802e3",
+					"node_name": "学习伴成长（第二课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 6,
+					"bit_order": 5,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "5de73c5b-e906-45eb-8d79-83bb896802e3",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "学习伴成长（第二课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b8d3da547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[5de73c5b-e906-45eb-8d79-83bb896802e3].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "ee31bc7e-a61e-4738-885a-2c02ce959202",
+					"node_name": "享受学习",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 7,
+					"bit_order": 6,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "ee31bc7e-a61e-4738-885a-2c02ce959202",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "享受学习",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b05f30547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[ee31bc7e-a61e-4738-885a-2c02ce959202].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "cd856a3b-8a0c-4fe1-b49c-531b0c6fed14",
+					"node_name": "认识自己（第一课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 8,
+					"bit_order": 7,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "cd856a3b-8a0c-4fe1-b49c-531b0c6fed14",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "认识自己（第一课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b0ffb4547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[cd856a3b-8a0c-4fe1-b49c-531b0c6fed14].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "8ca5e20d-65a5-4558-834c-b1bee9715b17",
+					"node_name": "认识自己（第二课时）",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 9,
+					"bit_order": 8,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "8ca5e20d-65a5-4558-834c-b1bee9715b17",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "认识自己（第二课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b3e083547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[8ca5e20d-65a5-4558-834c-b1bee9715b17].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "8a73a9b3-88b6-4bbb-bc5a-47b8b340a1ad",
+					"node_name": "做更好的自己",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 10,
+					"bit_order": 9,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "8a73a9b3-88b6-4bbb-bc5a-47b8b340a1ad",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "做更好的自己",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b1e8ff547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[8a73a9b3-88b6-4bbb-bc5a-47b8b340a1ad].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "e0239d62-c958-4233-9264-dae617dba44b",
+					"node_name": "专题-成长的节拍",
+					"node_type": "activity",
+					"parent_node_id": "57a7c9c3-367e-48f2-9625-0d37dc630a81",
+					"order_no": 11,
+					"bit_order": 10,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "e0239d62-c958-4233-9264-dae617dba44b",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "专题-成长的节拍",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b3ff6d547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[e0239d62-c958-4233-9264-dae617dba44b].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				}
+			]
+		},
+		{
+			"node_id": "07a6dc87-8eb4-4d54-b3da-5840705e708d",
+			"node_name": "第二单元 友谊的天空",
+			"node_type": "catalog",
+			"parent_node_id": null,
+			"order_no": 2,
+			"bit_order": null,
+			"ext_info": {
+				"total_time": 18000
+			},
+			"relations": null,
+			"child_nodes": [
+				{
+					"node_id": "51052dc3-a9e9-461f-970d-0d648af9b46a",
+					"node_name": "和朋友在一起",
+					"node_type": "activity",
+					"parent_node_id": "07a6dc87-8eb4-4d54-b3da-5840705e708d",
+					"order_no": 1,
+					"bit_order": 11,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "51052dc3-a9e9-461f-970d-0d648af9b46a",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "和朋友在一起",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b4b80c547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[51052dc3-a9e9-461f-970d-0d648af9b46a].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "c035c32c-134e-4796-bc8a-965ef327d2de",
+					"node_name": "深深浅浅话友谊",
+					"node_type": "activity",
+					"parent_node_id": "07a6dc87-8eb4-4d54-b3da-5840705e708d",
+					"order_no": 2,
+					"bit_order": 12,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "c035c32c-134e-4796-bc8a-965ef327d2de",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "深深浅浅话友谊",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b3b6ea547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[c035c32c-134e-4796-bc8a-965ef327d2de].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "32e6404a-5e44-4bc4-b039-eac32b6a7668",
+					"node_name": "让友谊之树常青",
+					"node_type": "activity",
+					"parent_node_id": "07a6dc87-8eb4-4d54-b3da-5840705e708d",
+					"order_no": 3,
+					"bit_order": 13,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "32e6404a-5e44-4bc4-b039-eac32b6a7668",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "让友谊之树常青",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b8bc4a547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[32e6404a-5e44-4bc4-b039-eac32b6a7668].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "67673e16-f173-4bac-8396-7e7d4e7a1e50",
+					"node_name": "网上交友新时空",
+					"node_type": "activity",
+					"parent_node_id": "07a6dc87-8eb4-4d54-b3da-5840705e708d",
+					"order_no": 4,
+					"bit_order": 14,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "67673e16-f173-4bac-8396-7e7d4e7a1e50",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "网上交友新时空",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b40ee0547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[67673e16-f173-4bac-8396-7e7d4e7a1e50].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "0ee631f5-4b19-4624-b6c1-8f34de505542",
+					"node_name": "专题——友谊的天空",
+					"node_type": "activity",
+					"parent_node_id": "07a6dc87-8eb4-4d54-b3da-5840705e708d",
+					"order_no": 5,
+					"bit_order": 15,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "0ee631f5-4b19-4624-b6c1-8f34de505542",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "专题——友谊的天空",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b75c4f547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[0ee631f5-4b19-4624-b6c1-8f34de505542].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				}
+			]
+		},
+		{
+			"node_id": "dfa468b1-3484-4de6-84f5-d0aa71b7454b",
+			"node_name": "第三单元 师长情谊",
+			"node_type": "catalog",
+			"parent_node_id": null,
+			"order_no": 3,
+			"bit_order": null,
+			"ext_info": {
+				"total_time": 21600
+			},
+			"relations": null,
+			"child_nodes": [
+				{
+					"node_id": "0b588df3-fccb-4850-b2e4-34bdf2a47f80",
+					"node_name": "走近老师",
+					"node_type": "activity",
+					"parent_node_id": "dfa468b1-3484-4de6-84f5-d0aa71b7454b",
+					"order_no": 1,
+					"bit_order": 16,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "0b588df3-fccb-4850-b2e4-34bdf2a47f80",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "走近老师",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b0f5e5547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[0b588df3-fccb-4850-b2e4-34bdf2a47f80].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "9927ecb6-81ac-439b-9fb6-4fe18497aaa8",
+					"node_name": "师生交往",
+					"node_type": "activity",
+					"parent_node_id": "dfa468b1-3484-4de6-84f5-d0aa71b7454b",
+					"order_no": 2,
+					"bit_order": 17,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "9927ecb6-81ac-439b-9fb6-4fe18497aaa8",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "师生交往",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b73132547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[9927ecb6-81ac-439b-9fb6-4fe18497aaa8].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "09ffe45e-f9f7-4658-b810-0553de439ff7",
+					"node_name": "家的意味",
+					"node_type": "activity",
+					"parent_node_id": "dfa468b1-3484-4de6-84f5-d0aa71b7454b",
+					"order_no": 3,
+					"bit_order": 18,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "09ffe45e-f9f7-4658-b810-0553de439ff7",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "家的意味",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b8ef76547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[09ffe45e-f9f7-4658-b810-0553de439ff7].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "978b1c33-5f9f-4212-b527-a395db4d60c0",
+					"node_name": "爱在家人间",
+					"node_type": "activity",
+					"parent_node_id": "dfa468b1-3484-4de6-84f5-d0aa71b7454b",
+					"order_no": 4,
+					"bit_order": 19,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "978b1c33-5f9f-4212-b527-a395db4d60c0",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "爱在家人间",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b5b8cb547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[978b1c33-5f9f-4212-b527-a395db4d60c0].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "28109f21-895a-41d9-83e6-893dc0300f74",
+					"node_name": "让家更美好",
+					"node_type": "activity",
+					"parent_node_id": "dfa468b1-3484-4de6-84f5-d0aa71b7454b",
+					"order_no": 5,
+					"bit_order": 20,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "28109f21-895a-41d9-83e6-893dc0300f74",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "让家更美好",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b0ad9c547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[28109f21-895a-41d9-83e6-893dc0300f74].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "e920bf3c-2b52-45fe-bd35-fea6a1fc94d7",
+					"node_name": "专题：师长情谊",
+					"node_type": "activity",
+					"parent_node_id": "dfa468b1-3484-4de6-84f5-d0aa71b7454b",
+					"order_no": 6,
+					"bit_order": 21,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "e920bf3c-2b52-45fe-bd35-fea6a1fc94d7",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "专题：师长情谊",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b58077547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[e920bf3c-2b52-45fe-bd35-fea6a1fc94d7].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				}
+			]
+		},
+		{
+			"node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+			"node_name": "第四单元 生命的思考",
+			"node_type": "catalog",
+			"parent_node_id": null,
+			"order_no": 4,
+			"bit_order": null,
+			"ext_info": {
+				"total_time": 36000
+			},
+			"relations": null,
+			"child_nodes": [
+				{
+					"node_id": "ac3bd9b7-bb61-4024-b6cd-c38c04649c2d",
+					"node_name": "生命可以永恒吗",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 1,
+					"bit_order": 22,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "ac3bd9b7-bb61-4024-b6cd-c38c04649c2d",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "生命可以永恒吗",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b60af8547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[ac3bd9b7-bb61-4024-b6cd-c38c04649c2d].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "a494a0c7-2840-4ed4-975e-fc743a2afdf0",
+					"node_name": "敬畏生命",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 2,
+					"bit_order": 23,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "a494a0c7-2840-4ed4-975e-fc743a2afdf0",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "敬畏生命",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b7c07a547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[a494a0c7-2840-4ed4-975e-fc743a2afdf0].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "bc8007e4-abec-425e-9696-95ee56cb73eb",
+					"node_name": "守护生命",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 3,
+					"bit_order": 24,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "bc8007e4-abec-425e-9696-95ee56cb73eb",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "守护生命",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b770b3547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[bc8007e4-abec-425e-9696-95ee56cb73eb].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "b371b5b1-add1-4064-8afb-4c7faa29b824",
+					"node_name": "增强生命的韧性",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 4,
+					"bit_order": 25,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "b371b5b1-add1-4064-8afb-4c7faa29b824",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "增强生命的韧性",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b18e63547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[b371b5b1-add1-4064-8afb-4c7faa29b824].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "2b57bc01-1752-469d-883a-8950b79a837c",
+					"node_name": "感受生命的意义",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 5,
+					"bit_order": 26,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "2b57bc01-1752-469d-883a-8950b79a837c",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "感受生命的意义",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b8d795547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[2b57bc01-1752-469d-883a-8950b79a837c].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "5416c4cb-283d-4fbe-b9ec-9c890d033402",
+					"node_name": "活出生命的精彩（第一课时）",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 6,
+					"bit_order": 27,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "5416c4cb-283d-4fbe-b9ec-9c890d033402",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "活出生命的精彩（第一课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b88a28547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[5416c4cb-283d-4fbe-b9ec-9c890d033402].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "184871e1-6621-468b-9a7c-7075f5d86819",
+					"node_name": "活出生命的精彩（第二课时）",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 7,
+					"bit_order": 28,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "184871e1-6621-468b-9a7c-7075f5d86819",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "活出生命的精彩（第二课时）",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b7b758547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[184871e1-6621-468b-9a7c-7075f5d86819].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "df057863-c92d-4b62-bbb1-d1dfcd85c5d2",
+					"node_name": "专题—生命的思考",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 8,
+					"bit_order": 29,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "df057863-c92d-4b62-bbb1-d1dfcd85c5d2",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "专题—生命的思考",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b5dc89547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[df057863-c92d-4b62-bbb1-d1dfcd85c5d2].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "b6e2d09a-657d-4702-ad2a-bc880a8b5bd9",
+					"node_name": "专题-“我”与生命",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 9,
+					"bit_order": 30,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "b6e2d09a-657d-4702-ad2a-bc880a8b5bd9",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "专题-“我”与生命",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b53b3f547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[b6e2d09a-657d-4702-ad2a-bc880a8b5bd9].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				},
+				{
+					"node_id": "92ed579f-3580-4eea-8152-80ae50b6cc46",
+					"node_name": "专题-我与他人",
+					"node_type": "activity",
+					"parent_node_id": "970d0987-d1c7-4652-9b4f-cb88c92d1e61",
+					"order_no": 10,
+					"bit_order": 31,
+					"ext_info": null,
+					"relations": {
+						"activity": {
+							"id": "92ed579f-3580-4eea-8152-80ae50b6cc46",
+							"context_id": "library:e4270790-dae4-4b75-95c4-d56989892774.x_course:be1c9d29-3544-4687-9afa-2aa7cb45b4b6.activity_set:3f9ced7c-f6d7-4e86-b325-38ac946afc1b",
+							"name": "专题-我与他人",
+							"type": "x_class_hour_activity",
+							"sub_type": null,
+							"icon_url": "https://s-file-1.ykt.cbern.com.cn/zxx/icon/reading_activity.png",
+							"cover_url": "https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b1861c547a11eb96b8fa20200c3759/cover/1.jpg",
+							"study_time": 3600,
+							"start_time": null,
+							"end_time": null,
+							"ext_info": {
+								"access_expression": "if (#{is_login} == false) {if (#{all_visitor_mode} == 1) {return 'access'} else {return 'i18n.activity.user_un_login'}} else if (#{full_session.access_status} != 1) {return 'i18n.activity.user_not_access'} else if (#{full_session.activity_study_info_map[92ed579f-3580-4eea-8152-80ae50b6cc46].locked} == true) {return 'i18n.activity.activity_locked'} else {return 'access'}"
+							},
+							"build_in_set_id": null,
+							"activity_resources": null,
+							"question_vos": null
+						}
+					},
+					"child_nodes": []
+				}
+			]
+		}
+	],
+	"create_user": 890918,
+	"update_user": null,
+	"create_time": "2022-01-24T10:27:58.000+0800",
+	"update_time": "2022-03-30T19:12:09.000+0800"
+}

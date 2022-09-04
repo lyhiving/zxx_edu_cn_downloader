@@ -1,0 +1,230 @@
+[
+	{
+		"id": 4260,
+		"activity_id": "ad610237-db27-4d86-8105-f7262c2e3fdf",
+		"resource_id": "2fb21061-5481-11eb-96b8-fa20200c3759",
+		"resource_type": "video",
+		"source": "NDR",
+		"container_id": "38df8108-6f39-478d-b614-8c9decd21627",
+		"tenant_id": 1,
+		"study_time": 1216,
+		"document_extend": null,
+		"video_extend": {
+			"title": "中学序曲（第一课时）",
+			"front_cover_url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/cover/1.jpg",
+			"type": 0,
+			"default_audio_index": null,
+			"screenshot": {
+				"path": [],
+				"interval": 76,
+				"width": 160,
+				"height": 120,
+				"provider": "NDR"
+			},
+			"files": [
+				{
+					"type": 6,
+					"size": 8531,
+					"width": 640,
+					"height": 360,
+					"quality": 1,
+					"audio_index": null,
+					"audio_title": null,
+					"audio_language": null,
+					"duration": 1217,
+					"tech_info_key": "href-360p-m3u8"
+				},
+				{
+					"type": 6,
+					"size": 8531,
+					"width": 852,
+					"height": 480,
+					"quality": 2,
+					"audio_index": null,
+					"audio_title": null,
+					"audio_language": null,
+					"duration": 1217,
+					"tech_info_key": "href-480p-m3u8"
+				},
+				{
+					"type": 6,
+					"size": 8653,
+					"width": 1280,
+					"height": 720,
+					"quality": 3,
+					"audio_index": null,
+					"audio_title": null,
+					"audio_language": null,
+					"duration": 1216,
+					"tech_info_key": "href-720p-m3u8"
+				}
+			],
+			"subtitles": null,
+			"urls": [
+				{
+					"type": 6,
+					"quality": 1,
+					"audio_index": null,
+					"size": 8531,
+					"encrypt": false,
+					"urls": [
+						"https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/5b77af2f6d3d4fe36dbd3201f92eb992.640.360.false/5b77af2f6d3d4fe36dbd3201f92eb992.640.360.m3u8",
+						"https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/5b77af2f6d3d4fe36dbd3201f92eb992.640.360.false/5b77af2f6d3d4fe36dbd3201f92eb992.640.360.m3u8",
+						"https://r3-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/5b77af2f6d3d4fe36dbd3201f92eb992.640.360.false/5b77af2f6d3d4fe36dbd3201f92eb992.640.360.m3u8"
+					],
+					"encrypt_urls": null
+				},
+				{
+					"type": 6,
+					"quality": 2,
+					"audio_index": null,
+					"size": 8531,
+					"encrypt": false,
+					"urls": [
+						"https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/40309c373106747140e4ea14c39136d9.852.480.false/40309c373106747140e4ea14c39136d9.852.480.m3u8",
+						"https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/40309c373106747140e4ea14c39136d9.852.480.false/40309c373106747140e4ea14c39136d9.852.480.m3u8",
+						"https://r3-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/40309c373106747140e4ea14c39136d9.852.480.false/40309c373106747140e4ea14c39136d9.852.480.m3u8"
+					],
+					"encrypt_urls": null
+				},
+				{
+					"type": 6,
+					"quality": 3,
+					"audio_index": null,
+					"size": 8653,
+					"encrypt": false,
+					"urls": [
+						"https://r1-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/99bfa99daaa10801443529f52fe08db7.1280.720.false/99bfa99daaa10801443529f52fe08db7.1280.720.m3u8",
+						"https://r2-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/99bfa99daaa10801443529f52fe08db7.1280.720.false/99bfa99daaa10801443529f52fe08db7.1280.720.m3u8",
+						"https://r3-ndr.ykt.cbern.com.cn/edu_product/65/video/17b68a16547a11eb96b8fa20200c3759/99bfa99daaa10801443529f52fe08db7.1280.720.false/99bfa99daaa10801443529f52fe08db7.1280.720.m3u8"
+					],
+					"encrypt_urls": null
+				}
+			],
+			"attachments": null,
+			"status": 0,
+			"duration": 1216
+		}
+	},
+	{
+		"id": 4259,
+		"activity_id": "ad610237-db27-4d86-8105-f7262c2e3fdf",
+		"resource_id": "3cb8af8c-5481-11eb-96b8-fa20200c3759",
+		"resource_type": "document",
+		"source": "NDR",
+		"container_id": "38df8108-6f39-478d-b614-8c9decd21627",
+		"tenant_id": 1,
+		"study_time": 10,
+		"document_extend": {
+			"title": "在线学习任务单",
+			"display_mode": "vertical",
+			"default_type": "image",
+			"source_type": "pdf",
+			"page_width": 793,
+			"page_height": 1122,
+			"hosts": [
+				"https://r1-ndr.ykt.cbern.com.cn",
+				"https://r2-ndr.ykt.cbern.com.cn",
+				"https://r3-ndr.ykt.cbern.com.cn"
+			],
+			"files": [
+				{
+					"type": "image",
+					"size": 0,
+					"file_urls": [
+						"/edu_product/65/document/1bc74fe7547a11eb96b8fa20200c3759/image/1.jpg"
+					]
+				},
+				{
+					"type": "thumbnail",
+					"size": 0,
+					"file_urls": [
+						"/edu_product/65/document/1bc74fe7547a11eb96b8fa20200c3759/thumbnail/1.jpg"
+					]
+				},
+				{
+					"type": "pdf",
+					"size": 128230,
+					"file_urls": [
+						"/edu_product/65/document/1bc74fe7547a11eb96b8fa20200c3759/pdf.pdf"
+					]
+				},
+				{
+					"type": "html",
+					"size": 0,
+					"file_urls": [
+						"/edu_product/65/document/1bc74fe7547a11eb96b8fa20200c3759/html/1.html"
+					]
+				}
+			],
+			"attachments": null,
+			"front_cover_url": null,
+			"categories": null,
+			"status": 0,
+			"page_count": 1
+		},
+		"video_extend": null
+	},
+	{
+		"id": 4258,
+		"activity_id": "ad610237-db27-4d86-8105-f7262c2e3fdf",
+		"resource_id": "3cb1ccdb-5481-11eb-96b8-fa20200c3759",
+		"resource_type": "document",
+		"source": "NDR",
+		"container_id": "38df8108-6f39-478d-b614-8c9decd21627",
+		"tenant_id": 1,
+		"study_time": 20,
+		"document_extend": {
+			"title": "课后练习",
+			"display_mode": "vertical",
+			"default_type": "image",
+			"source_type": "pdf",
+			"page_width": 794,
+			"page_height": 1123,
+			"hosts": [
+				"https://r1-ndr.ykt.cbern.com.cn",
+				"https://r2-ndr.ykt.cbern.com.cn",
+				"https://r3-ndr.ykt.cbern.com.cn"
+			],
+			"files": [
+				{
+					"type": "image",
+					"size": 0,
+					"file_urls": [
+						"/edu_product/65/document/1bc2b367547a11eb96b8fa20200c3759/image/1.jpg",
+						"/edu_product/65/document/1bc2b367547a11eb96b8fa20200c3759/image/2.jpg"
+					]
+				},
+				{
+					"type": "thumbnail",
+					"size": 0,
+					"file_urls": [
+						"/edu_product/65/document/1bc2b367547a11eb96b8fa20200c3759/thumbnail/1.jpg",
+						"/edu_product/65/document/1bc2b367547a11eb96b8fa20200c3759/thumbnail/2.jpg"
+					]
+				},
+				{
+					"type": "pdf",
+					"size": 104014,
+					"file_urls": [
+						"/edu_product/65/document/1bc2b367547a11eb96b8fa20200c3759/pdf.pdf"
+					]
+				},
+				{
+					"type": "html",
+					"size": 0,
+					"file_urls": [
+						"/edu_product/65/document/1bc2b367547a11eb96b8fa20200c3759/html/1.html",
+						"/edu_product/65/document/1bc2b367547a11eb96b8fa20200c3759/html/2.html"
+					]
+				}
+			],
+			"attachments": null,
+			"front_cover_url": null,
+			"categories": null,
+			"status": 0,
+			"page_count": 2
+		},
+		"video_extend": null
+	}
+]

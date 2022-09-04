@@ -1,0 +1,24 @@
+[
+	{
+		"id": 9322,
+		"activity_id": "ad610237-db27-4d86-8105-f7262c2e3fdf",
+		"lecturer_id": "18c87a67-8dc0-461b-a66d-a1e352dd736d",
+		"role_tag": "主讲人",
+		"sort_num": 1,
+		"lecturer_name": "陈华",
+		"lecturer_photo_id": "4bd586cf-f01f-49eb-b319-3df6c1a00591",
+		"lecturer_intro": "清华大学附属中学上地学校政治教师，北京市海淀区政治学科带头人。",
+		"lecturer_status": 1
+	},
+	{
+		"id": 9323,
+		"activity_id": "ad610237-db27-4d86-8105-f7262c2e3fdf",
+		"lecturer_id": "456660c7-4b21-4669-ba96-6c0336625b94",
+		"role_tag": "指导教师",
+		"sort_num": 2,
+		"lecturer_name": "朱军",
+		"lecturer_photo_id": "4bd586cf-f01f-49eb-b319-3df6c1a00591",
+		"lecturer_intro": "朱军老师是北京市中关村中学道德与法治教师，中学高级教师，北京市骨干教师。",
+		"lecturer_status": 1
+	}
+]
